@@ -37,4 +37,6 @@ Instructions:
 
 11 Back to master branch in local repository : git checkout master
 
+12 Wait for further instruction from lecturer.
+
 Have a nice exploration ...
