@@ -16,7 +16,7 @@ Instructions:
 
 This is worksheet for class project session 2. Complete student data here:
 
-Student Name: .NUR AHSAR SETIYOWEN
+Student Name: .Nur Ahsar Setiyowen.
 Student ID:   .1301180506
 Class:	      .IF-42-INT
 
