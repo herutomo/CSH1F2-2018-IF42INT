@@ -5,7 +5,11 @@ Subject Name: Introduction to Computer Science
 Topic:        Session 2
 Theme:        Class Project
 
+<<<<<<< HEAD
 Peer reviewer:a
+=======
+Peer reviewer:
+>>>>>>> 68f7d6071277ba2721fc3779e7356965c000d8aa
 
 Student Name: 
 Student ID:
@@ -53,7 +57,11 @@ In front of each statement, write the problem number and "A" for Action, "L" for
 24.(A) Ask the user for his or her name.
 25.(A) Print 27 dollar signs ($) on a line.
 26.(A) Compute the sum of 7 times 3 and 9 times 5.
+<<<<<<< HEAD
 27.(A ) Ask the user for today's date.
+=======
+27.(A) Ask the user for today's date.
+>>>>>>> 68f7d6071277ba2721fc3779e7356965c000d8aa
 28.(A) For each student in the class input his or her weight and add it to a total.
 29.(A) compute the sum of odd numbers between 11 and 51.
 30.(L) For each number from 1 to 50, print the number and its square root.  (Print a table of square roots for numbers up to 50.)
