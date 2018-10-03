@@ -51,26 +51,28 @@ Lets move it on:
 
 ========= WORKSHEET STARTS
 
-Full Name	: ..............
+Full Name	: Yusron Hanan Zain Vidi Imtinan
 
-Class		: ..............
+Class		: IF-42-INT
 
-Student ID	: ..............
+Student ID	: 1301184476
 
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
-		.....................................
-		.....................................
+		I guess, feature is kind of analys some data. So, in here we get Feature Visualisation,Feature Engineering,Feature Interaction. So, on their we will learn some variation how we analys some data.
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
+		In here I argue, if we want to have trip, so we always meet time. Because, we can not seperate it. Trip always relation about duration, then it's related to time.
 
 Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
+		- Descriptive analytics answers the question of what happened.
+		-Diagnostic analytics
+At this stage, historical data can be measured against other data to answer the question of why something happened. 
+		-Predictive analytics tells what is likely to happen. It uses the findings of descriptive and diagnostic analytics to detect tendencies, clusters and exceptions, and to predict future trends, which makes it a valuable tool for forecasting. 
+		-Prescriptive analytics,
+The purpose of prescriptive analytics is to literally prescribe what action to take to eliminate a future problem or take full advantage of a promising trend. 
 
 
 ========= WORKSHEET ENDS
