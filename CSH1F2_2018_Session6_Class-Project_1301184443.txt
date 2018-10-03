@@ -1,0 +1,24 @@
+Full Name	: Thoriq Putra Renaldi
+
+Class		: IF-42-INT
+
+Student ID	: 1301184443
+
+Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
+
+		The function "Feature" in this notebook is to visualize and analyize something
+		that we collect, compare, and summarize to get the information of something.
+
+Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
+
+		The relation between trip and time in this notebook are not constant.As we can see
+		in all graph, they give the different result depend on the conditions. The conditions
+		like mean trips, average trips, etc. are not even the same results. 
+
+Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
+
+		There are four different types of data analysis. The first one is diagnostic analysis.
+		It gives a deep data mining to get informations. Usually, it uses by companies. The second one is
+		predictive analysis. It predicts cases like weather forecasts, tendencies, clusters and exceptions, etc.
+		The third one is prespective analysis. It prescribes what we should act to eleminate problems in the future.
+		The fourth one is descriptive analysis. It tells us what exactly happen in the case.
