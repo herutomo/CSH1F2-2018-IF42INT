@@ -51,26 +51,29 @@ Lets move it on:
 
 ========= WORKSHEET STARTS
 
-Full Name	: ..............
+Full Name	: Muhammad Farhan Audianto
 
-Class		: ..............
+Class		: IF-42-INT
 
-Student ID	: ..............
+Student ID	: 1301180466
 
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
-		.....................................
-		.....................................
+		i think I think feature is something that count statistic base on some thing. Like feature engineering is count it based on distance in kilometers between pickup and dropoff location.
+	
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
+		From that two we can know median, average and other result. Because we can count it and got another information
+
 
 Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
+		1.	Descriptive (least amount of effort):  The discipline of quantitatively describing the main features of a collection of data. In essence, it describes a set of data.
+		2.	Exploratory: An approach to analyzing data sets to find previously unknown relationships.
+		3.	Inferential: Aims to test theories about the nature of the world in general (or some part of it) based on samples of “subjects” taken from the world (or some part of it).
+		4.	Predictive: The various types of methods that analyze current and historical facts to make predictions about future events.
+
 
 
 ========= WORKSHEET ENDS
