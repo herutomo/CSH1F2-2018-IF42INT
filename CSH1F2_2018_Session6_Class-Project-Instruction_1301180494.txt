@@ -1,0 +1,85 @@
+Telkom University
+Term:		2018/2019
+Subject:	CSH1F2
+Subject Name:	Introduction to Computer Science
+Topic:		Session 6
+Theme:		Class Project
+
+
+
+Instruction:
+
+This session (Week 6) we wil try to see an implementation of data visualization (data representation) in the area of Smart Cities.
+
+You are free to choose and use other materials for comparison and learning improvement.
+
+We will use and embrace the media below:
+	Python as our language technology (view only)
+	Kagggle.com as code sharing 
+
+
+The class project below will typically take around 15 to 45 minutes end to end, 
+
+please make sure you are running on a computer with minimal background processes and sufficient RAM (4GB with small number of background processes in Windows 10 Operating System) and CPU (Intel Core i5 or better), because the notebook sometimes could cause your CPU fan to swirl fast.
+
+Lets move it on:
+
+
+1 Prepare your local repository:
+
+	1a Enter the branch that you created in Session 2 by entering the folder in your computer and do : git checkout <your_student_id>
+		attention: 
+		please use the directory / folder that you have been working on since Session 2.
+		if you use a new directory or folder or new computer, you have to follow the Git initiation and related process before you start working, and I dont cover the related support in this session.
+
+	1b Do the following in your working branch inside your local repository from Session 2 : git pull origin master 
+
+		
+2 Follow the instruction below: 
+
+	2a open https://www.kaggle.com/wti200/exploratory-analysis-nyc-taxi-trip
+		it is an example of how citizen or public can dig down into exploration of city taxi trips, in this case New York City taxi.
+
+	2b try to analyze graphs in "Feature Visualization" and "Feature Engineering" sections.
+	
+	2c answer questions below in this file and submit maximum by 21.00 (09.00 PM) UTC+07.00 at 03 October 2018 (today, in 1 hour):
+
+	2d submit by issueing: git push origin <your_student_id>
+
+	2e Back to master branch in local repository to make sure you will be ready like a bread fresh from the oven: git checkout master
+
+
+========= WORKSHEET STARTS
+
+Full Name	: Ketut Sudyatmika Putra
+
+Class		: IF-42-INT
+
+Student ID	: 1301180494
+
+Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
+
+			The meaning of the "Feature" in this notebook is, that we analyze some data of the thing that we want to know.
+			For example for "Feature Visualization", in this section we analyze the Trip Duration of the taxi company. In this section we can analyze the passenger count, vendor id, mean trip duration and
+			number of rides. The analyze can be various, from Monthly, Weekly, or Hoursly.
+			Another section is "Feature Engineering", in this section we mainly analyze the distance in kilometers between pickup and dropoff location. We can analyze the speed and the pickup hour too.			
+
+Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
+
+			Related from this notebook, we can conclude that trip and time here is important. Because from both of them, we can do the analyze to calculate the speed of the taxi, trip duration, the distance.
+			From trip and time we can know, the pickup and the dropoff location and the time that passenger mostly need a taxi, in this case usually at 4 and 5 in the morning.
+
+Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
+
+			1. Descriptive Analytics
+				Descriptive analytics answers question of what happened.
+			2. Diagnostic Analytics
+				At this stage, historical data can be measured against other data to answer the question of why something happened.
+			3. Predictive Analytics
+				Predictive analytics tells what is likely to happen. It uses the findings of descriptive and diagnostic analytics to detect tendencies, clusters and exceptions, 
+				and to predict future trends, which makes it a valuable tool for forecasting. 
+			4. Prescriptive Analytics
+				The purpose of prescriptive analytics is to literally prescribe what action to take to eliminate a future problem or take full advantage of a promising trend.
+				
+
+========= WORKSHEET ENDS
