@@ -51,26 +51,36 @@ Lets move it on:
 
 ========= WORKSHEET STARTS
 
-Full Name	: ..............
+Full Name	: Kevin Ferdiansyah
 
-Class		: ..............
+Class		: IF-42-INT
 
-Student ID	: ..............
+Student ID	: 1301184528
 
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
-		.....................................
-		.....................................
+		An aspect or a characteristic parts of something.
+		in this aspec it is a variable that is calculated based on duration and distances.
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
+		Both is determining to values. trip is to judge distance, time is to judge duration
+		Long distance can be achieved with a short or a long duration. The same is for short distances.
 
 Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
-
+		Descriptive
+			to describe variables.
+		Exploratory
+			to explain certain variables.
+		Inferential
+			to infer theories about certain variables.
+		Predictive
+			to predict the outcome of certain variables.
+		Casual
+			to calculate to one variables when you change another.
+		Mechanistic
+			to analyse the exact changes in variables that lead to changes in other variables for individual objects.
+		
 
 ========= WORKSHEET ENDS
