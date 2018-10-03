@@ -81,7 +81,7 @@ Example: Microarray Data Analysis NewImage
 
 3. Inferential: Aims to test theories about the nature of the world in general (or some part of it) based on samples of “subjects” taken from the world (or some part of it). That is, use a relatively small sample of data to say something about a bigger population.
 
-Example: Inferential Analysis NewImage
+Example: Inferential Analysis NewImage..................)
 
 4. Predictive: The various types of methods that analyze current and historical facts to make predictions about future events. In essence, to use the data on some objects to predict values for another object.
 
