@@ -91,7 +91,7 @@ Another Example of Predictive Analysis
 
 5. Causal: To find out what happens to one variable when you change another.
 
-Example: Causal Analysis
+Example: Causal Analysis.......................................
 
 6. Mechanistic (most amount of effort): Understand the exact changes in variables that lead to changes in other variables for individual objects.
 
