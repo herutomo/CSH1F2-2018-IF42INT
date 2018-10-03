@@ -60,7 +60,7 @@ Student ID	: 130118463
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
 		to show the analysis on trip duration and produce some data from there. And 
-shows data that has been saved but this feature can also show modified data by calculate
+shows data that has been saved but this feature can also show modified data by calculate...
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
 
