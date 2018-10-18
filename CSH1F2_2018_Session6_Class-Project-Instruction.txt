@@ -51,26 +51,26 @@ Lets move it on:
 
 ========= WORKSHEET STARTS
 
-Full Name	: ..............
+Full Name	: NUR AHSAR SETIYOWEN
 
-Class		: ..............
+Class		: IF-42-INT
 
-Student ID	: ..............
+Student ID	: 130180506
 
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
-		.....................................
-		.....................................
+		I think this feature analyzes a visualization and engineering of the duration of riding a taxi in NYC, such as knowing the ratio between the average duration of a person's journey in general and the number of riders.
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
-
-		.....................................
-		.....................................
+		I see the relationship between travel and time is found in most people prefer to use a taxi at 15-16 pm. Because maybe in NYC, the time to go home from work around this time, so of course at this time the peak was at the peak of people taking a taxi.
 
 Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
-
-		.....................................
-		.....................................
+		
+		1) Descriptive technique. An analytical technique that is used to analyze data by describing or describing data that has been collected soberly without any intention to make generalizations from the results of the research. Included in the analysis 
+		   techniques are descriptive statistics such as presenting data into graphs, tables, percentages, frequencies, diagrams, graphs, mean, mode etc.
+		2) Inferential technique. Is a statistic used to analyze data by making generally accepted conclusions. The characteristics are the use of certain statistical formulas, then the results of calculations that have been done are what will become the
+		   basis for making generalizations.
+		
 
 
 ========= WORKSHEET ENDS
