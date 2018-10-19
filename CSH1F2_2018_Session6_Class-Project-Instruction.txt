@@ -51,25 +51,25 @@ Lets move it on:
 
 ========= WORKSHEET STARTS
 
-Full Name	: ..............
+Full Name	: Achmad Rafi Ghifari
 
-Class		: ..............
+Class		: IF-42-INT
 
-Student ID	: ..............
+Student ID	: 1301180478
 
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
-		.....................................
+		The feature is this notebooks means it's an attribute that we could use in the notebook
 		.....................................
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
 
-		.....................................
-		.....................................
+		trip and time are increases gradually as time passes by so it can be really beneficial for the taxi driver
+		so the longer the trip means it took a longer time to get to their destination. Meaning more money the taxi driver make
 
 Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
 
-		.....................................
+		There are 6 different types. they are Descriptive, Exploratory, Inferential, Predictive, Causal, and mechanistic
 		.....................................
 
 
