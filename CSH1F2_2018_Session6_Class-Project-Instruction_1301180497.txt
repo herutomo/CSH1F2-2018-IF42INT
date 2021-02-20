@@ -51,26 +51,33 @@ Lets move it on:
 
 ========= WORKSHEET STARTS
 
-Full Name	: Achmad Rafi Ghifari
+Full Name	: Muhammad Aufa Anasin
 
 Class		: IF-42-INT
 
-Student ID	: 1301180478
+Student ID	: 1301180497
 
 Answer for	: What do you think the meaning of "Feature " in this notebook ? 		(20 to 40 words)	(20 points)
 
-		The feature is this notebooks means it's an attribute that we could use in the notebook
-		.....................................
+		The feature in this notebook tell us about some information that we can simple and clearly to analyze
 
 Answer for	: What do you see in the relation between trip and time in this notebook ? 	(40 to 100 words)	(40 points)
 
-		trip and time are increases gradually as time passes by so it can be really beneficial for the taxi driver
-		so the longer the trip means it took a longer time to get to their destination. Meaning more money the taxi driver make
+		So, the conclustion is when the trips becomes more long distance, it will take a maybe a variaion of time based on the high densinty of traffic, high activity jam (like example lunch time and people getting to find the lunch), weather (example like if the city goes rain, it might the car reduce the speed because of the slick roads) and many more!
 
 Answer for	: Search Google, what are different types of data analysis ? 			(40 to 100 words)	(40 points)
 
-		There are 6 different types. they are Descriptive, Exploratory, Inferential, Predictive, Causal, and mechanistic
-		.....................................
+		There are 2 types of data analysis. both of them is Non Statistic and Statiticable
+		- 1. Non Statistic 
+			a. There are Qualitative data, that is data that cannot be spelled out, clearer non-statistical analysis
+			b. Qualitative data mostly process or analyze based on the substantion
+			c. this type of data analysis is frequently called as content analysis because it contains critical, descriptive, comparative, and sintensi analyse
+			
+		- 2. Statistic Analyze
+			a. for Quantitative data, it means that the data is just like variation of number, and this type verry great of used
+			b. there are some words that called Descriptive Statistic and Inferensial Statistic
+			c. Descriptive statistc mostly used for help explain some fact that was based on the real situation from one sample and it becomes descriptive research 
+			
 
 
 ========= WORKSHEET ENDS
